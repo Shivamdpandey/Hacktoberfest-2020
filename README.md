@@ -1,4 +1,4 @@
-# Hacktober-2020
+# Hacktoberfest-2020
 
 ## Give a star 🌟. Get your projects merged quickly on valid pull requests.
 ## Happy coding
